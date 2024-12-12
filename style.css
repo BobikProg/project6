@@ -71,6 +71,7 @@ body {
 
 .gallery__item {
     max-width: 330px;
+    position: relative;
 }
 
 .image {
@@ -101,4 +102,20 @@ body {
 .button {
     border: none;
     background-color: transparent;
+    position: absolute;
+    width: 39px;
+    height: 32px;
+    top: 403px;
+    left: 213px;
+
+}
+.button2 {
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    width: 30px;
+    height: 32px;
+    top: 403px;
+    left: 273px;
+
 }
