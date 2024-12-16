@@ -119,3 +119,11 @@ body {
     left: 273px;
 
 }
+.button:hover {
+    background-image: url(./images/Like_active.svg);
+    transition: 0.7;
+}
+.button2:hover {
+    background-image: url(./images/Choosen_active.svg);
+    transition: 0.7;
+}
